@@ -1,0 +1,11 @@
+C:\Users\eliodor.popov\source\repos\CS\CS\bin\Debug\netcoreapp2.2\CS.deps.json
+C:\Users\eliodor.popov\source\repos\CS\CS\bin\Debug\netcoreapp2.2\CS.runtimeconfig.json
+C:\Users\eliodor.popov\source\repos\CS\CS\bin\Debug\netcoreapp2.2\CS.runtimeconfig.dev.json
+C:\Users\eliodor.popov\source\repos\CS\CS\bin\Debug\netcoreapp2.2\CS.dll
+C:\Users\eliodor.popov\source\repos\CS\CS\bin\Debug\netcoreapp2.2\CS.pdb
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.csprojAssemblyReference.cache
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.csproj.CoreCompileInputs.cache
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.AssemblyInfoInputs.cache
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.AssemblyInfo.cs
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.dll
+C:\Users\eliodor.popov\source\repos\CS\CS\obj\Debug\netcoreapp2.2\CS.pdb
